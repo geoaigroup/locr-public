@@ -1,6 +1,6 @@
 # Lebanese Observatory for Crashes on Road (LOCR)  
 
-![image](https://github.com/geoaigroup/locr-public/assets/14883982/44c13e49-46f8-4629-aa2f-52f9d1b8ac48)
+![Untitled](https://github.com/geoaigroup/locr-public/assets/14883982/04d48e55-610e-4514-809c-d81de254d9db)
 
 LOCR platform serves to collect and analyze road crash events using crowd-sourcing approach from social media (notably Twitter and Facebook).  
 
