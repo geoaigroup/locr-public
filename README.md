@@ -1,5 +1,7 @@
 # Lebanese Observatory for Crashes on Road (LOCR)  
 
+![image](https://github.com/geoaigroup/locr-public/assets/14883982/44c13e49-46f8-4629-aa2f-52f9d1b8ac48)
+
 LOCR platform serves to collect and analyze road crash events using crowd-sourcing approach from social media (notably Twitter and Facebook).  
 
 Developed by a group led by Dr Ali J. Ghandour, LOCR has been in production since 2015 at the National Center for Remote Sensing – CNRS.  
