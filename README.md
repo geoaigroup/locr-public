@@ -7,8 +7,8 @@ Natural Language Processing (NLP) techniques. Fine-grained data and comprehensiv
 
 Following [SLIDES](https://geogroup.ai/project/locr/LOCR_latest.pdf) summarizes major milestones and achievements as part of the LOCR project.
 
-🎉🎉 <b>"Trend Analysis of Lebanese Road Crashes in 2022"</b> is now available and can be accessed via following <a href="https://www.dropbox.com/s/obqqvctwkh4bmyy/RoadCrashesReport2022.pdf?dl=0" target=_blank>LINK</a>.<br><br> 
+🎉🎉 <b>"Trend Analysis of Lebanese Road Crashes in 2022"</b> has been released [Report](https://geogroup.ai/project/locr/RoadCrashesReport2022.pdf).  
 
-Researchers interested to access the LOCR dataset can reach out via below link or through aghandour at cnrs.edu.lb:  
-https://geogroup.ai/#contact  
+Researchers interested to access the LOCR dataset can reach out via contact widget [Contact](https://geogroup.ai/#contact) or through email aghandour at cnrs.edu.lb.
+  
 
