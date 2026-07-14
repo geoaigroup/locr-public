@@ -10,8 +10,18 @@ LOCR is the only real-time and openly available Lebanese spatio-temporal road cr
 
 [[SLIDES]](https://geogroup.ai/project/locr/LOCR_latest.pdf) that summarizes major milestones and achievements as part of the LOCR project.
 
-## Contact
-Researchers interested to access the LOCR dataset can reach out via contact widget [Contact](https://geogroup.ai/#contact) or through email aghandour at cnrs.edu.lb.
+[[LOCR Dataset]](https://geogroup.ai/project/locr/locr-dataset.zip) ready for download.
+If you use this dataset, please make sure to cite our work as follows:
+
+```
+A. J. Ghandour, H. Hammoud and S. El Hajj, “Analyzing Factors Associated with Fatal Road Crashes: A Machine Learning Approach”, in International Journal of Environmental Research and Public Health, Vol. 17, Issue 11,
+2020 [Impact Factor 2.849 ]. https://doi.org/10.3390/ijerph17114111
+```
+
+```
+A. J. Ghandour, H. Hammoud, M. Dimassi, H. Krayem, J. Haydar and A. Issa, “Allometric Scaling of Road Accidents using Social Media Crowd-sourced Data”, in Elsevier Physica A: Statistical Mechanics and its Applications,
+Vol. 545, 2020 [Impact Factor 2.132 ]. https://doi.org/10.1016/j.physa.2019.123534
+```
   
 ## Disclaimer
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
